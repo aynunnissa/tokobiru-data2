@@ -15,7 +15,7 @@
     },
     {
       "id": 2,
-      "slug": "Samsung-32-inch-HD-Smart-TV-T4501-dengan-PurColor-Dolby-Digital-Plus-Ultra-Clean-View",
+      "slug": "DUMMY-Product-Detail",
       "master_image": "https://raw.githubusercontent.com/aynunnissa/tokobiru-data/main/images/products/tv-1-master.webp",
       "name": "Samsung 32 inch HD Smart TV T4501 dengan PurColor, Dolby Digital Plus, Ultra Clean View",
       "price": 3669000,
@@ -24,7 +24,37 @@
       "discount_percentage": "42%",
       "selling": "4,7RB Terjual",
       "rating": "4.9",
-      "category_id": 1
+      "category_id": 1,
+      "media": [
+        {
+          "id": 1,
+          "src": "https://raw.githubusercontent.com/aynunnissa/tokobiru-data/main/images/products/tv-1-master.webp"
+        },
+        {
+          "id": 2,
+          "src": "https://raw.githubusercontent.com/aynunnissa/tokobiru-data/main/images/products/tv-2.webp"
+        },
+        {
+          "id": 3,
+          "src": "https://raw.githubusercontent.com/aynunnissa/tokobiru-data/main/images/products/tv-1-master.webp"
+        },
+        {
+          "id": 4,
+          "src": "https://raw.githubusercontent.com/aynunnissa/tokobiru-data/main/images/products/tv-2.webp"
+        }
+      ],
+      "variants": [
+        {
+          "id": 1,
+          "name": "Smart TV 1",
+          "media_id": 1
+        },
+        {
+          "id": 2,
+          "name": "Reguler TV 1",
+          "media_id": 2
+        }
+      ]
     },
     {
       "id": 3,
