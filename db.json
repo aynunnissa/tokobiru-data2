@@ -1,0 +1,96 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "slug": "Lampu-LED-Vinverth-Paket-5-7-9-11-Watt-W-Multipack-Essential-Ess-5W-7W-9W-11W",
+      "master_image": "https://raw.githubusercontent.com/aynunnissa/tokobiru-data/main/images/products/lampu-1-master.webp",
+      "name": "Lampu LED Vinverth Paket 5 7 9 11 Watt W Multipack Essential Ess 5W 7W 9W 11W",
+      "price": 117000,
+      "is_discounted": true,
+      "discounted_price": 53880,
+      "discount_percentage": "54%",
+      "selling": "1RB Terjual",
+      "rating": "4.7",
+      "category_id": 1
+    },
+    {
+      "id": 2,
+      "slug": "Samsung-32-inch-HD-Smart-TV-T4501-dengan-PurColor-Dolby-Digital-Plus-Ultra-Clean-View",
+      "master_image": "https://raw.githubusercontent.com/aynunnissa/tokobiru-data/main/images/products/tv-1-master.webp",
+      "name": "Samsung 32 inch HD Smart TV T4501 dengan PurColor, Dolby Digital Plus, Ultra Clean View",
+      "price": 3669000,
+      "is_discounted": true,
+      "discounted_price": 2149000,
+      "discount_percentage": "42%",
+      "selling": "4,7RB Terjual",
+      "rating": "4.9",
+      "category_id": 1
+    },
+    {
+      "id": 3,
+      "slug": "OPPO-Reno12-5G-12GB/256GB-[80W-SUPERVOOC-5000mAh-AI-Eraser-2.0]",
+      "master_image": "https://raw.githubusercontent.com/aynunnissa/tokobiru-data/main/images/products/smartphone-1-master.webp",
+      "name": "OPPO Reno12 5G 12GB/256GB [80W SUPERVOOC 5000mAh, AI Eraser 2.0]",
+      "price": 6669000,
+      "is_discounted": false,
+      "discounted_price": null,
+      "discount_percentage": null,
+      "selling": "4,7RB Terjual",
+      "rating": "5.0",
+      "category_id": 1
+    }
+  ],
+  "flashsale": [
+    {
+      "id": 1,
+      "slug": "Lampu-LED-Vinverth-Paket-5-7-9-11-Watt-W-Multipack-Essential-Ess-5W-7W-9W-11W",
+      "master_image": "https://raw.githubusercontent.com/aynunnissa/tokobiru-data/main/images/products/lampu-1-master.webp",
+      "name": "Lampu LED Vinverth Paket 5 7 9 11 Watt W Multipack Essential Ess 5W 7W 9W 11W",
+      "price": 117000,
+      "is_discounted": true,
+      "discounted_price": 53880,
+      "discount_percentage": "54%",
+      "selling": "1RB Terjual",
+      "rating": "4.7",
+      "category_id": 1
+    },
+    {
+      "id": 2,
+      "slug": "Samsung-32-inch-HD-Smart-TV-T4501-dengan-PurColor-Dolby-Digital-Plus-Ultra-Clean-View",
+      "master_image": "https://raw.githubusercontent.com/aynunnissa/tokobiru-data/main/images/products/tv-1-master.webp",
+      "name": "Samsung 32 inch HD Smart TV T4501 dengan PurColor, Dolby Digital Plus, Ultra Clean View",
+      "price": 3669000,
+      "is_discounted": true,
+      "discounted_price": 2149000,
+      "discount_percentage": "42%",
+      "selling": "4,7RB Terjual",
+      "rating": "4.9",
+      "category_id": 1
+    },
+    {
+      "id": 3,
+      "slug": "OPPO-Reno12-5G-12GB/256GB-[80W-SUPERVOOC-5000mAh-AI-Eraser-2.0]",
+      "master_image": "https://raw.githubusercontent.com/aynunnissa/tokobiru-data/main/images/products/smartphone-1-master.webp",
+      "name": "OPPO Reno12 5G 12GB/256GB [80W SUPERVOOC 5000mAh, AI Eraser 2.0]",
+      "price": 6669000,
+      "is_discounted": false,
+      "discounted_price": null,
+      "discount_percentage": null,
+      "selling": "4,7RB Terjual",
+      "rating": "5.0",
+      "category_id": 1
+    }
+  ],
+  "banners": [
+    {
+      "id": 1,
+      "src": "https://raw.githubusercontent.com/aynunnissa/tokobiru-data/main/images/banners/banner1.webp",
+      "alt_image": "Smart Watch discount hingga 80%"
+    },
+    {
+      "id": 2,
+      "src": "https://raw.githubusercontent.com/aynunnissa/tokobiru-data/main/images/banners/banner2.webp",
+      "alt_image": "Redmi Note 10 harga terbaik hanya ada di sini"
+    }
+  ]
+}
